@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
@@ -189,5 +190,14 @@ export default function Home() {
         </div>
       </div>
     </div>
+=======
+import NexusAI from './components/NexusAI'
+
+export default function Home() {
+  return (
+    <main>
+      <NexusAI />
+    </main>
+>>>>>>> bdfeff4 (UI changes and Model Integration)
   )
 }
