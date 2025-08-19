@@ -1,4 +1,4 @@
-# 🚀 NexusAI – Ultimate AI Assistant Architecture
+# 🚀 NexusAI – Ultimate AI Assistant 
 
 # UI 
 
